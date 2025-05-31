@@ -1,5 +1,5 @@
 
-```markdown
+
 # J2EE-Transaction
 
 A Java EE (Jakarta EE) project demonstrating distributed transaction management using JTA (Java Transaction API). This project is packaged as a `.war` and is intended for deployment in a Java EE compatible application server such as **WildFly**, **GlassFish**, or **Payara**.
@@ -23,7 +23,7 @@ A Java EE (Jakarta EE) project demonstrating distributed transaction management 
 
 ## 📁 Project Structure
 
-```
+
 J2EE-Transaction/
 │
 ├── src/
